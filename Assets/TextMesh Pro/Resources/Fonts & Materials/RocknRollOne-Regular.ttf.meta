@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6580790cdebc04a8ba7f31f1ae25030a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 40
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - RocknRoll One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 978a7b725d8ba4b7ebfe8cadf5a7b647, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
